@@ -1,0 +1,21 @@
+{
+  "name": "ts-lerning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "typescript": "^5.5.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
